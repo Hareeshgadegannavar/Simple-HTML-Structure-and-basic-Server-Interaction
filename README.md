@@ -1,4 +1,4 @@
-Cognifyz Level 1 - Task 1: HTML Structure and Basic Server Interaction
+ HTML Structure and Basic Server Interaction
 
 ## 🎯 Project Overview
 
